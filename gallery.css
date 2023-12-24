@@ -124,6 +124,7 @@ a:hover{
   right: 0;
   object-fit: fill;
   width: 350px;
+    margin-bottom: 50px;
 }
 
 @keyframes regester{
