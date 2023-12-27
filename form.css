@@ -14,7 +14,7 @@ body{
     background: #dd399e;
 }
 .wrapper{
-    margin-top: 80px;
+    position: relative;
     width: 750px;
     height: 450px;
     background: transparent;
