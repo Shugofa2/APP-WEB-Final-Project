@@ -255,7 +255,9 @@ background-color: greenyellow;
 width: 100%;
 height: 20px;
 
-
+.abc-audio{
+    visibility: hidden;
+}
 }
 .box5{
 background-color: yellow;
