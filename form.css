@@ -14,7 +14,39 @@ body{
     background: #dd399e;
 }
 
+#nav{
+  background-color: rgb(248, 51, 84);
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  height: 70px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
 
+}
+
+#nav a{
+  color: #fff;
+  font-size: large;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  width: 140px;
+  height: 40px;
+  align-items: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+a:hover{
+  border-bottom:2px solid #fff;
+  text-align: center;
+}
 .wrapper{
     position: relative;
     width: 750px;
