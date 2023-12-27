@@ -32,7 +32,7 @@
     text-align: center;
 }
 
-a:hover{
+#nav a:hover{
     border-bottom:2px solid #fff;
     text-align: center;
 }
