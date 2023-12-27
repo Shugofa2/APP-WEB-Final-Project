@@ -137,6 +137,10 @@ a:hover{
 .container:hover .hover{
     visibility: visible;
 }
+
+.abc-audio{
+    visibility: hidden;
+}
 .star{
     width: 100%;
     height: 100%;
