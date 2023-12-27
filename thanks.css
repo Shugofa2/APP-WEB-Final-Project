@@ -5,11 +5,8 @@
 }
 body{
     background: url(stars-changing-colors.gif);
-    margin: 0;
-    padding: 0;
     background-size: cover;
     box-sizing: border-box;
-    max-height: 100%;
 }
 
 #nav{
