@@ -120,15 +120,15 @@ a:hover{
 }
 .regester-img img{
   position: absolute;
-  top: 100px;
+  top: 70px;
   right: 0;
   object-fit: fill;
   width: 350px;
-margin-bottom: 150px;
+margin-bottom: 200px;
     
 }
 .regester-img{
-    margin-bottom: 150px;
+    margin-bottom: 200px;
 }
 @keyframes regester{
   from{
