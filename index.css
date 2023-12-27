@@ -45,8 +45,7 @@ body{
 #nav p{
     width: 100px;
     height: 40px;
-    left: 20px;
-    position: absolute;
+    display: space-around;
     margin-top: auto;
     margin-bottom: auto;
     text-align: center;
