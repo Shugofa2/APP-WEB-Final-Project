@@ -1569,3 +1569,6 @@ p{
   padding-top: 20px;
   text-align: center;
 }
+.abc-audio{
+    visibility: hidden;
+}
