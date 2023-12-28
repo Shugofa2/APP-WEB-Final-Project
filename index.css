@@ -191,9 +191,7 @@ body{
 }
 
 .button:hover {
-    background-color: #fff;
     box-shadow: 0 0 60px #fff;
-    border: 3px solid #e94949;
 }
 
 .button:hover a{
