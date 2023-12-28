@@ -186,6 +186,8 @@ body{
     font-weight: 900;
     text-decoration: none;
     font-family: sans-serif;
+    width: 250px;
+    height: 100px;
 }
 
 #button:hover {
