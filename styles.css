@@ -73,8 +73,9 @@ h1::before{
 }
 
 #nav a:hover{
-  border-bottom:2px solid #fff;
-  text-align: center;
+    border-bottom:4px solid #fff;
+    text-align: center;
+    transition: 1s;
 }
 
 #nav p{
